@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![lms-utc](docs/assets/social-card.png)
 
+![lms-utc — architecture](docs/assets/architecture.png)
+
 # LMS-UTC
 
 A Learning Management System built for the Universal Training College (UTC) using Laravel 8. The platform supports course enrollment, virtual classrooms, Zoom-integrated live sessions, and a structured assessment workflow for students and teachers.
